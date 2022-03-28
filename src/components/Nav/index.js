@@ -15,7 +15,7 @@ function Nav() {
         },
     ];
     function categorySelected(name) {
-        console.log(`${name} clicked`)
+        console.log(`${name} clicked  because this is great`  );
       };
     return (
         <header>
